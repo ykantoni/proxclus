@@ -1,0 +1,9 @@
+[submodule "vm-infra"]
+	path = vm-infra
+	url = git@github.com:ykantoni/vm-infra.git
+[submodule "k8s-infra"]
+	path = k8s-infra
+	url = git@github.com:ykantoni/k8s-infra.git
+[submodule "k8s-apps"]
+	path = k8s-apps
+	url = git@github.com:ykantoni/k8s-apps.git
